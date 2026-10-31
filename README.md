@@ -47,7 +47,7 @@ Ensure you have [Node.js](https://nodejs.org/) (version 18 or newer) installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/teamup.git
+git clone https://github.com/Arpit-coder404/teamup.git
 
 # Navigate to the project directory
 cd teamup
@@ -111,3 +111,4 @@ src/
 ## 📜 License
 
 MIT License. Designed and built for university student builders and creators.
+
